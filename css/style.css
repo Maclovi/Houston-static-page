@@ -1,0 +1,29 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.header{
+    margin-top: 0.5em;
+}
+h1, h2, h3{
+    margin-top: 1.5em;
+    font-family:sans-serif;
+}
+h1{
+    font-size: 32px;
+}
+table, th, td{
+    border:1px solid black;
+}
+figcaption{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    font-style:italic;
+}
+.img{
+    clear: right;
+    float: right;
+}
